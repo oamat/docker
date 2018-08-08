@@ -1,4 +1,4 @@
-## Nginx docker guide step by step
+## Jenkins docker guide step by step
 
 1. execute "sh dockerrun.sh". (docker read dockerfile and create image & container)
 2. execute "docker ps". you can see the container 
