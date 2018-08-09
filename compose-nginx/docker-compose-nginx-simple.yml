@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    image: nginx
+    container_name: nginx
+    ports:
+      - "5000:80"
+    
