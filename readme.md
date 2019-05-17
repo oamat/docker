@@ -1,4 +1,4 @@
-# docker Projects
+# Docker Projects
 
 Several Docker projects with diferent tecnologies and docker composer
 
